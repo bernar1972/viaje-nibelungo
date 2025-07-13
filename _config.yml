@@ -1,3 +1,8 @@
-theme: minima
-title: El viaje del Nibelungo
+# _config.yml
+title: "El viaje del Nibelungo"
 author: Bernardo
+theme: minima
+
+# Opciones adicionales (descomenta si las necesitas)
+# baseurl: ""          # si usas un subdirectorio
+# url: "https://tu-usuario.github.io"
