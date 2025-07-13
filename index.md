@@ -3,7 +3,7 @@ layout: home
 title: "Bienvenido"
 ---
 
-![Portada](/assets/portada.jpg){: .cover-image }
+![Portada](/assets/bba_nivel.png){: .cover-image }
 
 # El viaje del Nibelungo
 
