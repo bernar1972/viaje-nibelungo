@@ -1,9 +1,5 @@
----
-layout: home
-title: "Bienvenido"
----
 
-![Portada](/assets/bba_nivel.png){: .cover-image }
+![Portada](/assets/bba_nivel.png){: style="width: 300px }
 
 # El viaje del Nibelungo
 
