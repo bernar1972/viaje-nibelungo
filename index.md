@@ -1,5 +1,5 @@
 
-![Portada](/assets/bba_nivel.png){: style="width: 300px }
+!Portada{/assets/bba_nivel.png: style="width: 300px;" }
 
 # El viaje del Nibelungo
 
