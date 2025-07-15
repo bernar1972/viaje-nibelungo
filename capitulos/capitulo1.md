@@ -22,3 +22,24 @@ Buscaba silencio.
 El tipo de silencio que solo llega cuando uno se mira sin nombre, sin deseo, sin miedo.
 
 Y así comienza su viaje.
+
+Antes de partir, encontró algo escondido entre los pliegues de su memoria:  
+Un viejo billete con el dibujo de un transbordador y un número que parecía un acertijo.  
+No recordaba cuándo lo había recibido, pero sí que **nadie cruza el río de las sombras sin un billete marcado**.
+
+Ese billete no era solo papel; era el pacto con su destino.  
+Una promesa de que, una vez cruzado, no habría vuelta atrás.
+
+Luego, llegó el tren.  
+No uno de metal común, sino uno que respiraba vapor y susurraba secretos.  
+Cada vagón parecía contener un eco de vidas pasadas.  
+Bernardo se sentó junto a la ventana, y mientras las montañas se desvanecían detrás, la gran ciudad emergió como un titán dormido:  
+**torres de fuego, puentes de humo, y calles que cantaban nombres perdidos.**
+
+La ciudad lo esperaba.  
+No para coronarlo, sino para despojarlo.  
+Solo quien se atreve a perderlo todo puede descubrir lo que nunca fue suyo.
+
+Así comenzaba la verdadera travesía:  
+Una historia donde los pasos no se dan sobre piedra, sino sobre espejos que se quiebran al nombrarse.
+
